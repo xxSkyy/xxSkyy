@@ -52,6 +52,7 @@ I'm not planning ever learning:
 - Python
 - GO
 - React
+- C++
 
 ## Timeline
 
