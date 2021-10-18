@@ -1,5 +1,7 @@
 # Me
 
+Self taught, never been studying and probably never will.
+
 ## Skills (without plugins)
 (*) - actively used
 
