@@ -45,9 +45,9 @@ Self taught, never been studying and probably never will.
 - [x] REAPER (& LOT OF VST)*
 - [x] JETBRAINS RUBYMINE
 - [x] VSCODE*
-- [ ] (?)FLUTTER
 - [ ] RUST
-- [ ] RUST ACTIX & JUPITER
+- [ ] TAURI
+- [ ] ACTIX-WEB & JUNIPER
 
 I'm not planning ever learning:
 (preference)
