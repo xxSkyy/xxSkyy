@@ -158,5 +158,7 @@ I'm not planning ever learning:
 - Getting comfortable with ionic stack above
 - Finished 2 projects with Rails 6, GraphQL, Haml, Pug, Vue3 Composition API, TS, S3 Upload ....
 - First steps in Rust, learning from Rust book...
+- Getting started with Tauri - great tool
+- Finished Rust Book, low level langs logic are much different than things I've learned so far.
 
 ... 2021
