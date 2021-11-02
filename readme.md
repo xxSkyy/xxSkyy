@@ -160,5 +160,6 @@ I'm not planning ever learning:
 - First steps in Rust, learning from Rust book...
 - Getting started with Tauri - great tool
 - Finished Rust Book, low level langs logic are much different than things I've learned so far.
+- Twitch bot written with rust twitch_irc and diesel
 
 ... 2021
