@@ -162,5 +162,6 @@ I'm not planning ever learning:
 - Getting started with Tauri - great tool
 - Finished Rust Book, low level langs logic are much different than things I've learned so far.
 - Twitch bot written with rust twitch_irc and diesel
+- First small API made with Actix + Juniper
 
 ... 2021
