@@ -19,7 +19,8 @@ Self taught, never been studying and probably never will.
 - [x] JAVASCRIPT*
 - [x] TYPESCRIPT*
 - [x] VUE 2 OPTION API
-- [x] VUE 3 COMPOSITION API & APOLLO*
+- [x] VUE 3 COMPOSITION API*
+- [x] VUE APOLLO 4*
 - [x] JQUERY
 - [x] GRAPHQL API*
 - [x] REST API*
