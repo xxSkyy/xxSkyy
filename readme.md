@@ -163,6 +163,8 @@ I'm not planning ever learning:
 - Getting started with Tauri - great tool
 - Finished Rust Book, low level langs logic are much different than things I've learned so far.
 - Twitch bot written with rust twitch_irc and diesel
-- First small API made with Actix + Juniper
-
+- Small API made with Actix + Juniper
+- Learned Nuxt3 and created couple issues with Vue3 SSR
+- Nuxt2 application ported to Nuxt Bridge, overall pretty stable and usable
+- 
 ... 2021
