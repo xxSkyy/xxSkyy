@@ -42,14 +42,14 @@ Self taught, never been studying and probably never will.
 - [x] DAVINCI RESOLVE*
 - [x] AFTER EFFECTS (4/10)
 - [x] ADOBE XD*
-- [ ] FIGMA
+- [x] FIGMA
 - [x] REAPER (& LOT OF VST)*
 - [x] JETBRAINS RUBYMINE
 - [x] VSCODE*
 - [x] RUST
 - [x] TAURI
 - [x] DIESEL - RUST ORM
-- [ ] ACTIX-WEB & JUNIPER
+- [x] ACTIX-WEB & JUNIPER
 
 I'm not planning ever learning:
 (preference)
