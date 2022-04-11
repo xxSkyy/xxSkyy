@@ -53,8 +53,6 @@ Self taught, never been studying and probably never will.
 
 I'm not planning ever learning:
 (preference)
-- Python
-- GO
 - React
 - C++
 
